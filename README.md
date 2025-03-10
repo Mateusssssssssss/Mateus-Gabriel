@@ -17,7 +17,7 @@ Buscando desafios e projetos na área de **Ciência de Dados**
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mateusssssssssss)  
 
 ###  Projetos em Destaque  
-**[Análise Exploratória de Dados - Sales Data](https://github.com/Mateusssssssssss/Projeto-ciencia-de-dados)** Este projeto realiza uma análise exploratória de um conjunto de dados de vendas. O objetivo é analisar o comportamento de vendas com base em diferentes fatores, como região, método de pagamento, tipo de cliente e vendedor, além de verificar a existência de outliers e a distribuição de vendas ao longo do tempo.
+**[Análise Exploratória de Dados - Sales Data](https://github.com/Mateusssssssssss/Projeto-ciencia-de-dados)** Este projeto realiza uma análise exploratória de um conjunto de dados de vendas. O objetivo é analisar o comportamento de vendas com base em diferentes fatores, como região, método de pagamento, tipo de cliente e vendedor, além de verificar a existência de outliers e a distribuição de vendas ao longo do tempo.  
 **[Análise Exploratória](https://github.com/Mateusssssssssss/Analise-exploratoria)** Este projeto realiza uma análise exploratória dos dados de municípios gaúchos, com foco no valor empenhado em diárias e no PIB dos municípios. O objetivo é verificar a relação entre o PIB e o valor empenhado, identificar possíveis outliers e avaliar a eficiência no uso de recursos.
     
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mateusssssssssss&show_icons=true&bg_color=000000&title_color=00bcd4&text_color=ffffff&icon_color=f1c40f)
