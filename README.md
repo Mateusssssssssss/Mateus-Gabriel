@@ -6,15 +6,9 @@ Atualmente, estou focado em aprender técnicas avançadas de **Machine Learning*
 Buscando desafios e projetos na área de **Ciência de Dados**  
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-0077b5?style=for-the-badge&logo=sklearn&logoColor=white)
-
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
-
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-
-
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
 
 ### Redes Sociais:  
